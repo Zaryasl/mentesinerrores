@@ -1,1 +1,1 @@
-En pruebas, version 0.0.2
+Versión de Mente sin Errores 1.19.2 (Pasare el codigo de esta version a la 1.16.5)
