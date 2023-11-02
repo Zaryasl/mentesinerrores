@@ -1,0 +1,12 @@
+
+modLoader="javafml"
+loaderVersion="[41,)"
+license="All rights reserved"
+[[mods]]
+modId="zaryaentity"
+version="${file.jarVersion}"
+displayName="Mod de Entidades de Zarya"
+logoFile="-"
+credits="FlettaStudio"
+authors="Zaryasl"
+description='''Mod en Desarrollo'''
